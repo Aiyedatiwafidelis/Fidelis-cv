@@ -1,2 +1,2 @@
 # html-CV
-to learning how to connect GIT hub repository to the code editor
+This is a walkthrough of creating an html CV
